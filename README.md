@@ -25,6 +25,7 @@ Skill-uri independente extrase din dashboard-ul Gmail + Registru Sheets.
 | [reply-templates](skills/reply-templates/) | Template-uri email cu variabile și import .docx | Vanilla JS |
 | [powershell-cors-proxy](skills/powershell-cors-proxy/) | Server HTTP local PowerShell cu proxy API extern | PowerShell |
 | [email-registration-workflow](skills/email-registration-workflow/) | Flux complet OCR → Sheets → reply automat | JS, Gmail + Sheets + Anthropic API |
+| [bi-dashboard-chartjs](skills/bi-dashboard-chartjs/) | Dashboard BI cu Chart.js, Sheets API, auto-refresh countdown | JS, Chart.js 4, Google Sheets API v4 |
 
 ---
 
